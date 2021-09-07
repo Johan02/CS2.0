@@ -1,0 +1,2 @@
+local Folder = script.Parent
+
